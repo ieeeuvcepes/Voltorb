@@ -1,0 +1,12 @@
+Rinki has a plant in her pot.  That plant requires constant moisture level everytime else in dry soil condition it may die soon. Rinki cannot be with the plant and care it every moment. Can you build a device that nurtures the plant with the above condition ?
+
+Create a system that has following functionalities :-
+• Measure the moisture level of the soil every moment.
+• Turn on the pump to supply water to the plant whenever moisture is low.
+• Motor should Turn off whenever moisture of soil gets normal.
+• Moisture level should be displayed.
+
+Instructions:
+* Use of microcontroller is  allowed.
+*Additional functionality and creativity attracts more points. 
+* Both physical and simulation circuits are accepted.
